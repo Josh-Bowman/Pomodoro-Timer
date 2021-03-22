@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import classNames from "../utils/class-names";
 import useInterval from "../utils/useInterval";
-import DurationLocks from "../DurationLocks"
-import Timer from "../Timer"
+import DurationLocks from "./DurationLocks"
+import Timer from "./Timer"
 import TimerButtons from "../TimerButtons"
 
 function Pomodoro() {
