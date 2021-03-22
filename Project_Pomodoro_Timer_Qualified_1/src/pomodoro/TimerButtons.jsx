@@ -1,5 +1,6 @@
 import React from "react"
-import classNames from "./utils/class-names";
+//import classNames from "../utils/class-names";
+import classNames from "../utils/class-names"
 
 const TimerButtons = ({stateVals, setStateVals, initialState}) => {
 
